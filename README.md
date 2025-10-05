@@ -6,23 +6,23 @@ Welcome to my GitHub portfolio. Here you’ll find links to my most relevant pro
 
 Coming soon.
 
-# Networking
+## Networking
 
 Coming soon.
 
-# Programming
+## Programming
 
 Coming soon.
 
-# Web & Bootstrap
+## Web & Bootstrap
 
 Coming soon.
 
-# Hardware
+## Hardware
 
 Coming soon.
 
-# Contact
+## Contact
 
 Email: sam.oliveira.dev@gmail.com
 LinkedIn: https://linkedin.com/in/josé-samuel-oliveira-367299377
