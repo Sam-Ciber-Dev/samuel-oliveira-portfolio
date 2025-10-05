@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio. Here you’ll find links to my most relevant projects in cybersecurity, web development, programming, networking, and hardware.
 
-# Cybersecurity
+## Cybersecurity
 
 Coming soon.
 
