@@ -11,5 +11,5 @@ Redes
 NOME-PROJETO — 1 linha do que faz.
 Contactos
 Email: sam.oliveira.dev@gmail.com
-LinkedIn: linkedin.com/in/josé-samuel-oliveira-367299377
-GitHub: github.com/Ph0enix
+LinkedIn: https://linkedin.com/in/josé-samuel-oliveira-367299377
+GitHub: https://github.com/Ph0enix
