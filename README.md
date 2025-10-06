@@ -30,4 +30,6 @@ Coming soon.
 
 
 ## Social preview
-The social preview image used for link cards: <a href="assets/social-preview.png"> <img src="assets/social-preview.png" alt="Social preview banner" width="640"> </a>
+The social preview image used for link cards:
+
+<a href="assets/social-preview.png"> <img src="assets/social-preview.png" alt="Social preview banner" width="640"> </a>
