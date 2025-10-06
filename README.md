@@ -29,3 +29,5 @@ Coming soon.
 #### LinkedIn: https://www.linkedin.com/in/jose-samuel-oliveira
 
 
+# Social preview
+The social preview image used for link cards: !Social preview banner
