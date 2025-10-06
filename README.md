@@ -26,4 +26,6 @@ Coming soon.
 ## Contact
 
 #### Email: sam.oliveira.dev@gmail.com <br>
-#### LinkedIn: https://linkedin.com/in/josé-samuel-oliveira-367299377
+#### LinkedIn: https://www.linkedin.com/in/jose-samuel-oliveira
+
+
