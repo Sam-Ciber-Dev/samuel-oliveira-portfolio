@@ -29,5 +29,5 @@ Coming soon.
 #### LinkedIn: https://www.linkedin.com/in/jose-samuel-oliveira
 
 
-# Social preview
-The social preview image used for link cards: !Social preview banner
+## Social preview
+The social preview image used for link cards: <a href="assets/social-preview.png"> <img src="assets/social-preview.png" alt="Social preview banner" width="640"> </a>
