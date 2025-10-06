@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a cybersecurity student specializing in pentesting, web security, and DevOps. With a background in software development and databases, I approach security end‑to‑end — from code to infrastructure. I build practical tools, document reproducible findings, and focus on ethical, authorized testing. I’m currently sharpening my skills in vulnerability assessment, AppSec, and network security through hands‑on projects.
+I’m a cybersecurity student specializing in pentesting, web security, and DevOps. With a background in software development and databases, I approach security from code to infrastructure. I build practical tools, document reproducible findings, and focus on ethical, authorized testing. I’m currently sharpening my skills in vulnerability assessment, AppSec, and network security through hands‑on projects.
 
 > *Note: Security-related content is for educational use in authorized environments only. Always follow legal and ethical guidelines.*
 
