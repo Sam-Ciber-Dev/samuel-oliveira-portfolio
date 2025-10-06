@@ -11,7 +11,7 @@ I’m a cybersecurity student specializing in pentesting, web security, and DevO
 
 ## My Projects
 
-This repository serves as a hub to my most relevant work. I’ll add direct links to individual project repositories with short summaries and setup notes.
+This repository serves as a hub for my most relevant work. I’ll add direct links to individual project repositories with short summaries and setup notes.
 
 ### Cybersecurity
 
@@ -35,14 +35,15 @@ Coming soon.
 
 ## Contact
 
-#### Email: sam.oliveira.dev@gmail.com <br>
-#### LinkedIn: https://www.linkedin.com/in/jose-samuel-oliveira
+**Email:** sam.oliveira.dev@gmail.com  [✉️ Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=sam.oliveira.dev@gmail.com&su=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A) • [Compose in Outlook](https://outlook.live.com/owa/?path=/mail/action/compose&to=sam.oliveira.dev@gmail.com&subject=Portfolio%20inquiry&body=Hi%20Samuel%2C%0A)  
 
-### License
+**LinkedIn:** [linkedin.com/in/jose-samuel-oliveira](https://www.linkedin.com/in/jose-samuel-oliveira)
+
+## License
 
 This repository is licensed under the MIT License. See LICENSE for details.
 
-## Social preview
+## Social Preview
 The social preview image used for link cards:
 
 <a href="assets/social-preview.png"> <img src="assets/social-preview.png" alt="Social preview banner" width="640"> </a>
