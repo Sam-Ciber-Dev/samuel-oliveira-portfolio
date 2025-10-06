@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio. Here you’ll find links to my most relevant projects in cybersecurity, web development, programming, networking, and hardware.
 
-Note: Security-related content is for educational use in authorized environments only. Always follow legal and ethical guidelines. <br>
+> Note: Security-related content is for educational use in authorized environments only. Always follow legal and ethical guidelines. <br>
 ## Cybersecurity
 
 Coming soon.
