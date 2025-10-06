@@ -46,7 +46,7 @@ This repository is licensed under the [MIT License](LICENSE). See LICENSE for de
 ## Social Preview
 The social preview image used for link cards:
 
-<a href="assets/social-preview.png"> <img src="assets/social-preview.png" alt="Social preview banner" width="640"> </a>
+<img src="assets/social-preview.png" alt="Samuel Oliveira Portfolio — Cybersecurity, DevOps, Web, Software" width="640">
 
 ## Badges
 
